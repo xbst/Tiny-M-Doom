@@ -1,5 +1,5 @@
 # Doom-M
-A heavily modified high temp Tiny-M build.
+A modified high temp Tiny-M build.
 <br>![](./DOCS/IMAGES/1.PNG)
 <br>Initial CAD design description: https://youtu.be/QfLSvSASgaw
 <br>More information about Tiny-M: https://github.com/gsl12/Tiny-M
@@ -11,3 +11,4 @@ A heavily modified high temp Tiny-M build.
 | ![](./DOCS/IMAGES/2.PNG) | ![](./DOCS/IMAGES/3.PNG)|
 <br>
 <br>Check out my YT channel to see this build in progress: https://www.youtube.com/playlist?list=PLJKGITN8zPujpHJXw2BlKhsdbrXcnUU1R
+<br>If you wish to support the development of this project, you can support me here: https://www.patreon.com/isikstech

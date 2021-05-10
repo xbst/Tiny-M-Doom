@@ -1,1 +1,1 @@
-Just a reminder that this is still WIP.
+Just a reminder: This is still WIP.
