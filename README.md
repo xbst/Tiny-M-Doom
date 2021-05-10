@@ -1,4 +1,4 @@
-# Tiny-M Doom
+# Doom-M
 <br>A heavily modified high temp Tiny-M build.
 <br>![](./DOCS/IMAGES/1.PNG)
 <br>Initial CAD design description: https://youtu.be/QfLSvSASgaw
