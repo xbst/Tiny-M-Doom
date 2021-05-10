@@ -1,6 +1,6 @@
 # Tiny-M Doom
 <br>A heavily modified high temp Tiny-M build.
-<br>![](./DOCS/IMAGES/1.png)
+<br>![](./DOCS/IMAGES/1.PNG)
 <br>Initial CAD design description: https://youtu.be/QfLSvSASgaw
 <br>More information about Tiny-M: https://github.com/gsl12/Tiny-M
 <br>More information about Voron v0: https://github.com/VoronDesign/Voron-0
